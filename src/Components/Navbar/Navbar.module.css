@@ -1,0 +1,19 @@
+.item a{
+    color: hotpink;
+    font-weight: revert;
+    font-size: 18px;
+    text-decoration-line: none;
+}
+
+.nav {
+    background-color: aquamarine;
+    grid-area: n;
+}
+
+.item:hover {
+    cursor: pointer;
+}
+
+.item a.active {
+    color: black;
+}

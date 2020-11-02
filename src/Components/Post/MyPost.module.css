@@ -1,0 +1,12 @@
+.item {
+    color: darkseagreen;
+    text-decoration-line: underline;
+    font-weight: bold;
+}
+
+.item img {
+    width: 60px;
+    height: 60px;
+    border-radius: 40px;
+    border: 1px solid black;
+}
